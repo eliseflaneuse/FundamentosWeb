@@ -19,7 +19,7 @@ Projetos Usando HTML e CSS:
 - Primeiro Projeto usando HTML e CSS: [Dasmoto Project][2]
 - Segundo Projeto usando HTML e CSS: [The Summit Project][3]
 - Terceiro Projeto usando HTML e CSS: [Style Guide - The Savage South][4]
-- Quarto Projeto usando HTML e CSS: [Pup Spa][[5]
+- Quarto Projeto usando HTML e CSS: [Pup Spa][5]
 - Quinto Projeto usando HTML e CSS: [Task Board][6]
 - Sexto Projeto usando HTML e CSS: [Drawing Club][7]
 - Sétimo Projeto usando HTML e CSS: [Piano em CSS][8]
@@ -52,3 +52,11 @@ Projetos usando JavaScript:
 [1]: https://github.com/eliseflaneuse/sleepCalculator
 [2]: https://github.com/eliseflaneuse/rockPaperScissors
 [3]: https://github.com/eliseflaneuse/mysterious-organism
+
+
+Exercícios de JavaScript:
+-----
+
+- Basic JavaScript part of the JavaScript Algorithms and Data Structures Course: [Basic JavaScript][1]
+
+[1]: https://github.com/eliseflaneuse/basicJavaScript
